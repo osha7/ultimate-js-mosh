@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@webpack-cli/generators": "^3.0.7"
+  },
+  "scripts": {
+    "build": "webpack -w"
+  },
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
